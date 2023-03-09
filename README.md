@@ -12,4 +12,4 @@ repl.it or glitch.com or codepen.io which instantly gives a link to share
 
 Enjoy!!!
 
-(Live site)[https://geervan.github.io/Happy-birthday-code-in-javascript/]
+[Live site](https://geervan.github.io/Happy-birthday-code-in-javascript/)
